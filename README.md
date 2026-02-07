@@ -1,4 +1,4 @@
-# Analisador-de-Textos-com-IA-usando-LangChain
+# Analisa-Textos-arquivo-com-IA-usando-LangChain-e-Groq
 
 - Este projeto demonstra como utilizar Inteligência Artificial generativa para analisar automaticamente conteúdos textuais armazenados em arquivos locais.
 - A aplicação lê um arquivo .txt, constrói um prompt estruturado com LangChain PromptTemplate e envia o conteúdo para um LLM da Groq, retornando um resumo e os principais pontos do texto.
