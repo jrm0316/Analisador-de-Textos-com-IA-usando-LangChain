@@ -42,20 +42,20 @@ README.md: documentação do projeto
 Como executar o projeto
   1.) Clone o repositório:
 
-  git clone https://github.com/seu-usuario/langchain-explicador-de-conceitos
+     git clone https://github.com/seu-usuario/Analisa-Textos-arquivo-com-IA-usando-LangChain-e-Groq
 
   2.) Crie e ative um ambiente virtual (opcional, mas recomendado)
   3.) Instale as dependências:
 
-  pip install langchain langchain-groq python-dotenv
+     pip install langchain langchain-groq python-dotenv
 
   4.) Crie o arquivo .env e adicione sua chave:
 
-  GROQ_API_KEY=sua_chave_aqui
+     GROQ_API_KEY=sua_chave_aqui
 
   5.) Execute o script:
 
-  python analisador_texto_ia.py
+     python analisador_texto_ia.py
 
 Alterando o texto analisado
 - Para analisar outro conteúdo, basta editar o arquivo dados.txt com o texto desejado.
